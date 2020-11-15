@@ -1,6 +1,8 @@
 <h2 align="center">Selam Kardeşlik Ben MrSpy👋</h2>
 <p align="center">
   <a href="https://discord.com/users/357941060607016960" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/30r0d93ezwrghklfd8m19734y" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+
   <a href="https://instagram.com/nurlan_.3" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/MrSpy0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
